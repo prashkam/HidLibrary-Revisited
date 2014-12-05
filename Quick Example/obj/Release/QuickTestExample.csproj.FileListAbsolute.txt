@@ -1,0 +1,12 @@
+D:\Dropbox\Projekts\C#\HidLibrary Test\Quick Example\bin\Release\QuickTestExample.exe.config
+D:\Dropbox\Projekts\C#\HidLibrary Test\Quick Example\bin\Release\QuickTestExample.exe
+D:\Dropbox\Projekts\C#\HidLibrary Test\Quick Example\bin\Release\QuickTestExample.pdb
+D:\Dropbox\Projekts\C#\HidLibrary Test\Quick Example\bin\Release\HidLibrary.dll
+D:\Dropbox\Projekts\C#\HidLibrary Test\Quick Example\bin\Release\HidLibrary.pdb
+D:\Dropbox\Projekts\C#\HidLibrary Test\Quick Example\obj\Release\QuickTestExample.csprojResolveAssemblyReference.cache
+D:\Dropbox\Projekts\C#\HidLibrary Test\Quick Example\obj\Release\QuickTestExample.Form1.resources
+D:\Dropbox\Projekts\C#\HidLibrary Test\Quick Example\obj\Release\QuickTestExample.Properties.Resources.resources
+D:\Dropbox\Projekts\C#\HidLibrary Test\Quick Example\obj\Release\QuickTestExample.csproj.GenerateResource.Cache
+D:\Dropbox\Projekts\C#\HidLibrary Test\Quick Example\obj\Release\QuickTestExample.exe.licenses
+D:\Dropbox\Projekts\C#\HidLibrary Test\Quick Example\obj\Release\QuickTestExample.exe
+D:\Dropbox\Projekts\C#\HidLibrary Test\Quick Example\obj\Release\QuickTestExample.pdb

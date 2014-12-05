@@ -1,0 +1,8 @@
+C:\Users\OASH\Desktop\HidLibrary Test\HidLibrary\bin\Release\HidLibrary.dll
+C:\Users\OASH\Desktop\HidLibrary Test\HidLibrary\bin\Release\HidLibrary.pdb
+C:\Users\OASH\Desktop\HidLibrary Test\HidLibrary\obj\Release\HidLibrary.dll
+C:\Users\OASH\Desktop\HidLibrary Test\HidLibrary\obj\Release\HidLibrary.pdb
+D:\Dropbox\Projekts\C#\HidLibrary Test\HidLibrary\bin\Release\HidLibrary.dll
+D:\Dropbox\Projekts\C#\HidLibrary Test\HidLibrary\bin\Release\HidLibrary.pdb
+D:\Dropbox\Projekts\C#\HidLibrary Test\HidLibrary\obj\Release\HidLibrary.dll
+D:\Dropbox\Projekts\C#\HidLibrary Test\HidLibrary\obj\Release\HidLibrary.pdb

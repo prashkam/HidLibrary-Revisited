@@ -1,0 +1,12 @@
+D:\Dropbox\Projekts\C#\HidLibrary Test\Quick Example\bin\Debug\QuickTestExample.exe.config
+D:\Dropbox\Projekts\C#\HidLibrary Test\Quick Example\obj\Debug\QuickTestExample.Form1.resources
+D:\Dropbox\Projekts\C#\HidLibrary Test\Quick Example\obj\Debug\QuickTestExample.Properties.Resources.resources
+D:\Dropbox\Projekts\C#\HidLibrary Test\Quick Example\obj\Debug\QuickTestExample.csproj.GenerateResource.Cache
+D:\Dropbox\Projekts\C#\HidLibrary Test\Quick Example\obj\Debug\QuickTestExample.exe.licenses
+D:\Dropbox\Projekts\C#\HidLibrary Test\Quick Example\bin\Debug\QuickTestExample.exe
+D:\Dropbox\Projekts\C#\HidLibrary Test\Quick Example\bin\Debug\QuickTestExample.pdb
+D:\Dropbox\Projekts\C#\HidLibrary Test\Quick Example\bin\Debug\HidLibrary.dll
+D:\Dropbox\Projekts\C#\HidLibrary Test\Quick Example\bin\Debug\HidLibrary.pdb
+D:\Dropbox\Projekts\C#\HidLibrary Test\Quick Example\obj\Debug\QuickTestExample.exe
+D:\Dropbox\Projekts\C#\HidLibrary Test\Quick Example\obj\Debug\QuickTestExample.pdb
+D:\Dropbox\Projekts\C#\HidLibrary Test\Quick Example\obj\Debug\QuickTestExample.csprojResolveAssemblyReference.cache

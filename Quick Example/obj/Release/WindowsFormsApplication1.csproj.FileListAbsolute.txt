@@ -1,0 +1,12 @@
+C:\Users\OASH\Desktop\HidLibrary Test\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\OASH\Desktop\HidLibrary Test\bin\Release\WindowsFormsApplication1.exe
+C:\Users\OASH\Desktop\HidLibrary Test\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\OASH\Desktop\HidLibrary Test\bin\Release\HidLibrary.dll
+C:\Users\OASH\Desktop\HidLibrary Test\bin\Release\HidLibrary.pdb
+C:\Users\OASH\Desktop\HidLibrary Test\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\OASH\Desktop\HidLibrary Test\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\OASH\Desktop\HidLibrary Test\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\OASH\Desktop\HidLibrary Test\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\OASH\Desktop\HidLibrary Test\obj\Release\WindowsFormsApplication1.exe.licenses
+C:\Users\OASH\Desktop\HidLibrary Test\obj\Release\WindowsFormsApplication1.exe
+C:\Users\OASH\Desktop\HidLibrary Test\obj\Release\WindowsFormsApplication1.pdb
