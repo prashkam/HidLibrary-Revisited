@@ -71,6 +71,7 @@ namespace HidLibrary
 
         public override string ToString()
         {
+            // modified - elekgeek
             byte[] SerialNumber;
             ReadSerialNumber(out SerialNumber);
 
