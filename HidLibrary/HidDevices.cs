@@ -15,6 +15,7 @@ namespace HidLibrary
 
         public event HidDeviceInsertedHandler HidNewDeviceArrived;
         private Timer _timer1 = new Timer();
+        private bool IsStoped = false;
 
         public HidDevices()
         {
@@ -24,16 +25,23 @@ namespace HidLibrary
 
         public void StartScanning()
         {
+            IsStoped = false;
             _timer1.Start();
+        }
+
+        public void StopScanning()
+        {
+            IsStoped = true;
+            _timer1.Stop();
         }
 
         private void _timerElapsed(object sender, ElapsedEventArgs e)
         {
             if (HidNewDeviceArrived != null)
             {
-                _timer1.Stop();
+                if (!IsStoped) _timer1.Stop();
                 HidNewDeviceArrived();
-                _timer1.Start();
+                if(!IsStoped) _timer1.Start();
             }
         }
 
